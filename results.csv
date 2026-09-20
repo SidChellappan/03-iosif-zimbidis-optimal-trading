@@ -1,0 +1,3 @@
+strategy,daily_mean_pnl,daily_pnl_std,total_pnl,sharpe_like
+constant_volatility_baseline,-0.00000162,0.00070818,-0.00477264,-0.036327
+realized_volatility_correction,-0.00000104,0.00065983,-0.00306372,-0.025028
